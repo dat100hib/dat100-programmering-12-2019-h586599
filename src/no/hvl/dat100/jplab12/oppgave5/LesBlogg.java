@@ -24,7 +24,7 @@ public class LesBlogg {
 
 	public static Blogg les(String filnavn) {
 
-		throw new UnsupportedOperationException(TODO.method());
+		throw new UnsupportedOperationException(TODO.method()); 
 
 	}
-}
+} 
